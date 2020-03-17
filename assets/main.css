@@ -1,0 +1,29 @@
+.part1{
+    border: 1px grey solid;
+    height: 500px;
+    margin-bottom: 10px;
+}
+
+.part2{
+    display: flex;
+    height: 600px;
+    border: 1px grey solid;
+
+}
+
+.gender{
+    flex: 1;
+    border: 1px grey solid;
+}
+
+.age{
+    flex: 1;
+    border: 1px grey solid;
+}
+
+.part3{
+    border: 1px grey solid;
+    height: 450px;
+    margin-top: 10px;
+}
+
